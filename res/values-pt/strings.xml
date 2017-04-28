@@ -16,14 +16,39 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name" msgid="5717136097222561957">"MusicFX"</string>
-    <string name="no_effects" msgid="5067916002004255814">"Efeitos não disponíveis."</string>
-    <string name="eq_dialog_title" msgid="2020244436368289652">"Equalizador"</string>
-    <string name="headset_plug" msgid="4505819850289423141">"Conecte fones de ouvido para ativar estes efeitos."</string>
-    <string name="bass_boost_strength" msgid="882301530007752270">"Realçar graves"</string>
-    <string name="virtualizer_strength" msgid="106561253469770096">"Sistema surround"</string>
-    <string name="setup" msgid="1103677904576339192">"Configuração"</string>
-    <string name="ci_extreme" msgid="1736938429763948084">"Amplificador FX"</string>
-    <string name="user" msgid="3949460956502898057">"Usuário"</string>
-    <string name="picker_title" msgid="8464126693702817261">"Painel contr. efeitos sonoros"</string>
-</resources>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">Efeitos não disponíveis.</string>
+    <string name="main_toggle_effects_title">Efeitos de áudio</string>
+    <string name="eq_dialog_title">Equalizador</string>
+    <string name="headset_plug">Conecte os fones para usar este efeito.</string>
+    <string name="combo_device">Efeitos suportados apenas usando fones de ouvido.</string>
+    <string name="bass_boost_strength">Reforço de graves</string>
+    <string name="virtualizer_strength">Som surround</string>
+    <string name="pr_title">Reverb</string>
+    <string name="pr_summary">Efeitos adicionais de reverberação</string>
+    <string name="pr_dialog_title">Predefinições reverb</string>
+    <string name="setup">Ajuste</string>
+    <string name="normal">Normal</string>
+    <string name="classical">Clássica</string>
+    <string name="dance">Dance</string>
+    <string name="flat">Flat</string>
+    <string name="folk">Folk</string>
+    <string name="heavy_metal">Heavy Metal</string>
+    <string name="hip_hop">Hip Hop</string>
+    <string name="jazz">Jazz</string>
+    <string name="pop">Pop</string>
+    <string name="rock">Rock</string>
+    <string name="ci_extreme">Eletrônica</string>
+    <string name="user">Personalizado</string>
+    <string name="none">Nenhum</string>
+    <string name="smallroom">SalaPequena</string>
+    <string name="mediumroom">SalaMédia</string>
+    <string name="largeroom">SalaGrande</string>
+    <string name="mediumhall">SalãoPequeno</string>
+    <string name="largehall">SalãoGrande</string>
+    <string name="plate">Placa</string>
+    <string name="eq_custom">Para editar, escolha Personalizado</string>
+    <string name="power_on_prompt">Aperte o botão de ligar no topo direito.</string>
+    <string name="picker_title">Painel de controle de efeitos</string>
+    <string name="toggle_button_on">LIG</string>
+    <string name="toggle_button_off">DESL</string></resources>
